@@ -1,1 +1,2 @@
 # leaflet-challenge
+For this challenge, I have developed a way to visualize the United States Geological Survery data that allows them to better educate the public on earthwuakes around the world. I used Leaflet to create a map that plots all the earthquakes from the dataset based on their longitude and latitude. The markers reflect the magnitude of the earthquake by their size and the depth by the color. The larger the circle, the higher the magnitude of the earthquake, and the greater the depth of the earthquake the darker the color. 
